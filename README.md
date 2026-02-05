@@ -137,3 +137,15 @@ Utilisation à vos propres risques.
 MIT – libre d’utilisation et de modification.
 
 support = entscrapper@gmail.com
+
+1-01
+
+Erreur 500 pour les devoirs , notes et cours.
+
+1-02
+
+Erreurs 500 corrigés sauf pour les notes ( à regler )
+
+1-03
+
+
